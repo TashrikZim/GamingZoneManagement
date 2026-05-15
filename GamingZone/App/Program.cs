@@ -2,11 +2,20 @@ using BLL.Services;
 using DAL.EF;
 using DAL.Repos;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDistributedMemoryCache();
+
+builder.Services.AddSession(opt =>
+{
+    opt.IdleTimeout = TimeSpan.FromHours(1);
+    opt.Cookie.HttpOnly = true;
+    opt.Cookie.IsEssential = true;
+});
 
 builder.Services.AddDbContext<GamingZoneDbContext>(opt =>
 {
@@ -29,6 +38,7 @@ app.UseHttpsRedirection();
 app.UseRouting();
 
 app.UseAuthorization();
+app.UseSession();
 
 app.MapStaticAssets();
 

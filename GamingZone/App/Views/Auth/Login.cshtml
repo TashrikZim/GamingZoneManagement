@@ -1,0 +1,26 @@
+﻿@model BLL.DTOs.LoginDTO
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>Login</h1>
+
+<form method="post">
+
+    <div class="text-danger">
+        @Html.ValidationSummary()
+    </div>
+
+    <input type="text" name="UserName" value="@Model.UserName" placeholder="Username" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("UserName")</span>
+
+    <br />
+
+    <input type="password" name="Password" placeholder="Password" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Password")</span>
+
+    <br />
+
+    <input type="submit" class="btn btn-primary" value="Login" />
+</form>

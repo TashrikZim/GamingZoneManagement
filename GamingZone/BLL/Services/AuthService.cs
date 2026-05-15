@@ -22,7 +22,37 @@ namespace BLL.Services
 
             data.Role = "User";
 
-            return repo.Create(data);
+            var res= repo.Create(data); ;
+            return res;
+        }
+
+        public User Authenticate(LoginDTO obj)
+        {
+            var res= repo.Authenticate(obj.UserName, obj.Password);
+            return res;
+        }
+
+        public EditProfileDTO Get(int id)
+        {
+            var data = repo.Get(id);
+
+            var res = mapper.Map<EditProfileDTO>(data);
+
+            return res;
+        }
+
+        public bool Update(EditProfileDTO u)
+        {
+            var oldData = repo.Get(u.Id);
+
+            var dataa = mapper.Map<User>(u);
+
+            dataa.Role = oldData.Role;
+            dataa.Password = oldData.Password;
+
+            var res = repo.Update(dataa);
+
+            return res;
         }
     }
 }

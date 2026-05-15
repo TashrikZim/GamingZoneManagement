@@ -1,30 +1,23 @@
-﻿using BLL.Validations;
+﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Text;
 
 namespace BLL.DTOs
 {
-    public class RegisterDTO
+    public class EditProfileDTO
     {
-    //    public int Id { get; set; }
+        public int Id { get; set; }
+
         [Required(ErrorMessage = "Name is Required")]
-        [StringLength(100)]
         public string Name { get; set; }
 
         [Required(ErrorMessage = "Email is Required")]
         [EmailAddress]
-        [UniqueEmail]
         public string Email { get; set; }
 
         [Required(ErrorMessage = "Username is Required")]
-        [UniqueUsername]
         public string UserName { get; set; }
-
-        [Required(ErrorMessage = "Password is Required")]
-        public string Password { get; set; }
-
-        [Required(ErrorMessage = "Confirm Password is Required")]
-        [PasswordMatch]
-        public string ConfirmPassword { get; set; }
 
         public string ContactNumber { get; set; }
     }

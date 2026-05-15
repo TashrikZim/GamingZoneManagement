@@ -1,0 +1,30 @@
+﻿@model BLL.DTOs.EditProfileDTO
+
+<h1>Edit Profile</h1>
+
+<form method="post">
+
+    <input type="hidden" name="Id" value="@Model.Id" />
+
+    <input type="text" name="Name" value="@Model.Name" placeholder="Name" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Name")</span>
+
+    <br />
+
+    <input type="text" name="UserName" value="@Model.UserName" placeholder="Username" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("UserName")</span>
+
+    <br />
+
+    <input type="text" name="Email" value="@Model.Email" placeholder="Email" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Email")</span>
+
+    <br />
+
+    <input type="text" name="ContactNumber" value="@Model.ContactNumber" placeholder="Contact Number" class="form-control" />
+
+    <br />
+
+    <input type="submit" value="Update" class="btn btn-primary" />
+
+</form>

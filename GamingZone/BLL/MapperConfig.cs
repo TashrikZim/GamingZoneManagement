@@ -9,6 +9,7 @@ namespace BLL
         public static MapperConfiguration config = new MapperConfiguration(cfg =>
         {
             cfg.CreateMap<User, RegisterDTO>().ReverseMap();
+            cfg.CreateMap<User,EditProfileDTO>().ReverseMap();
         });
 
         public static Mapper GetMapper()

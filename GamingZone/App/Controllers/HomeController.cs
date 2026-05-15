@@ -10,6 +10,31 @@ namespace App.Controllers
         {
             return View();
         }
+        public IActionResult UserDashboard()
+        {
+            if (HttpContext.Session.GetString("Uname") != null)
+            {
+
+                ViewBag.Uname = HttpContext.Session.GetString("Uname");
+                ViewBag.Role = HttpContext.Session.GetString("Role");
+
+                return View();
+            }
+            return Unauthorized();
+        }
+
+        public IActionResult AdminDashboard()
+        {
+            if (HttpContext.Session.GetString("Uname") != null)
+            {
+
+                ViewBag.Uname = HttpContext.Session.GetString("Uname");
+                ViewBag.Role = HttpContext.Session.GetString("Role");
+
+                return View();
+            }
+            return Unauthorized();
+        }
 
         public IActionResult Privacy()
         {

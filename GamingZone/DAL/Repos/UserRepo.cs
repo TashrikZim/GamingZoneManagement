@@ -18,5 +18,28 @@ namespace DAL.Repos
           db_data.Users.Add(user);
             return db_data.SaveChanges() > 0;
         }
+        public User Authenticate(string username, string password)
+        {
+            var user = (from u in db_data.Users
+                        where u.UserName.Equals(username)
+                        && u.Password.Equals(password)
+                        select u).FirstOrDefault();
+
+            return user;
+        }
+
+        public User Get(int id)
+        {
+            return db_data.Users.Find(id);
+        }
+
+        public bool Update(User u)
+        {
+            var exobj = Get(u.Id);
+
+            db_data.Entry(exobj).CurrentValues.SetValues(u);
+
+            return db_data.SaveChanges() > 0;
+        }
     }
 }
