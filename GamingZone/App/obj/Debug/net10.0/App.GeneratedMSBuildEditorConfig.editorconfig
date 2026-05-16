@@ -46,6 +46,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3RyYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/Git Control/GamingZoneManagement/GamingZone/App/Views/GamingSetup/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtaW5nU2V0dXBcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Git Control/GamingZoneManagement/GamingZone/App/Views/GamingSetup/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtaW5nU2V0dXBcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Git Control/GamingZoneManagement/GamingZone/App/Views/GamingSetup/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtaW5nU2V0dXBcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Git Control/GamingZoneManagement/GamingZone/App/Views/GamingSetup/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtaW5nU2V0dXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Git Control/GamingZoneManagement/GamingZone/App/Views/Home/AdminDashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkRhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -24,6 +24,9 @@ builder.Services.AddDbContext<GamingZoneDbContext>(opt =>
 builder.Services.AddScoped<UserRepo>();
 builder.Services.AddScoped<AuthService>();
 
+builder.Services.AddScoped<GamingSetupRepo>();
+builder.Services.AddScoped<GamingSetupService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

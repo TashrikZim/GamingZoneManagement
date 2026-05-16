@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+@model List<BLL.DTOs.GamingSetupDTO>
+
+<h1>Gaming Setup List</h1>
+
+<a href="/GamingSetup/Create" class="btn btn-primary">Create New Setup</a>
+
+<br />
+<br />
+
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Setup Name</th>
+        <th>Setup Type</th>
+        <th>Hourly Rate</th>
+        <th>Status</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.SetupName</td>
+            <td>@item.SetupType</td>
+            <td>@item.HourlyRate</td>
+            <td>@item.Status</td>
+            <td>
+                <a href="/GamingSetup/Edit/@item.Id" class="btn btn-warning">Edit</a>
+                <a href="/GamingSetup/Delete/@item.Id" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+

@@ -1,0 +1,36 @@
+﻿@model BLL.DTOs.GamingSetupDTO
+
+<h1>Create Gaming Setup</h1>
+
+<form method="post">
+    <input type="text" name="SetupName" value="@Model.SetupName" placeholder="Setup Name" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("SetupName")</span>
+
+    <br />
+
+    <select name="SetupType" class="form-control">
+        <option value="">-- Select Setup Type --</option>
+        <option value="PC">PC</option>
+        <option value="PS5">PS5</option>
+        <option value="Xbox">Xbox</option>
+    </select>
+    <span class="text-danger">@Html.ValidationMessage("SetupType")</span>
+
+    <br />
+
+    <input type="text" name="HourlyRate" value="@Model.HourlyRate" placeholder="Hourly Rate" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("HourlyRate")</span>
+
+    <br />
+
+    <select name="Status" class="form-control">
+        <option value="">-- Select Status --</option>
+        <option value="Available">Available</option>
+        <option value="Not Available">Not Available</option>
+    </select>
+    <span class="text-danger">@Html.ValidationMessage("Status")</span>
+
+    <br />
+
+    <input type="submit" value="Create" class="btn btn-primary" />
+</form>
