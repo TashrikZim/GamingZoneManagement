@@ -1,4 +1,4 @@
-﻿
+﻿@* 
 @{
     ViewData["Title"] = "Edit";
 }
@@ -44,4 +44,30 @@
 
     <input type="submit" value="Update" class="btn btn-primary" />
 </form>
+ *@
 
+
+
+
+@model BLL.DTOs.GamingSetupDTO
+
+<h1>Edit Gaming Setup</h1>
+
+<form method="post">
+    <input type="hidden" name="Id" value="@Model.Id" />
+
+    <input type="text" name="SetupName" value="@Model.SetupName" placeholder="Setup Name" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("SetupName")</span>
+
+    <input type="text" name="SetupType" value="@Model.SetupType" placeholder="Setup Type" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("SetupType")</span>
+
+    <input type="text" name="HourlyRate" value="@Model.HourlyRate" placeholder="Hourly Rate" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("HourlyRate")</span>
+
+    <input type="text" name="Status" value="@Model.Status" placeholder="Status" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Status")</span>
+
+    <br />
+    <input type="submit" class="btn btn-primary" value="Update" />
+</form>

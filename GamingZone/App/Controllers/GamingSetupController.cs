@@ -62,6 +62,26 @@ namespace App.Controllers
             return View(g);
         }
 
+        //[HttpGet]
+        //public IActionResult Delete(int id)
+        //{
+        //    var data = gamingSetupService.Get(id);
+        //    return View(data);
+        //}
+
+        //[HttpPost]
+        //public IActionResult Delete(int id, string Decision)
+        //{
+        //    if (Decision.Equals("Yes"))
+        //    {
+        //        gamingSetupService.Delete(id);
+        //        return RedirectToAction("Index");
+        //    }
+
+        //    return RedirectToAction("Index");
+        //}
+
+
         [HttpGet]
         public IActionResult Delete(int id)
         {
@@ -77,10 +97,7 @@ namespace App.Controllers
                 gamingSetupService.Delete(id);
                 return RedirectToAction("Index");
             }
-
             return RedirectToAction("Index");
         }
-
-
     }
 }

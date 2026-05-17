@@ -1,4 +1,4 @@
-﻿
+﻿@* 
 @{
     ViewData["Title"] = "Delete";
 }
@@ -36,4 +36,38 @@
     <input type="submit" name="Decision" value="Yes" class="btn btn-danger" />
     <input type="submit" name="Decision" value="No" class="btn btn-secondary" />
 </form>
+ *@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ @model BLL.DTOs.GamingSetupDTO
+
+<h1>Delete Gaming Setup</h1>
+
+<form method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+
+    <h3>Are you sure you want to delete this setup?</h3>
+
+    <p>Setup Name: @Model.SetupName</p>
+    <p>Setup Type: @Model.SetupType</p>
+    <p>Hourly Rate: @Model.HourlyRate</p>
+    <p>Status: @Model.Status</p>
+
+    <input type="submit" name="Decision" value="Yes" class="btn btn-danger" />
+    <input type="submit" name="Decision" value="No" class="btn btn-secondary" />
+</form>
