@@ -5,7 +5,7 @@ namespace BLL.DTOs
 {
     public class RegisterDTO
     {
-    //    public int Id { get; set; }
+   
         [Required(ErrorMessage = "Name is Required")]
         [StringLength(100)]
         public string Name { get; set; }

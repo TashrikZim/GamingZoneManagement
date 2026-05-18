@@ -1,0 +1,28 @@
+﻿@model List<BLL.DTOs.BookingDTO>
+
+<h1>My Bookings</h1>
+
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Setup Id</th>
+        <th>Date</th>
+        <th>Start Time</th>
+        <th>End Time</th>
+        <th>Total Amount</th>
+        <th>Status</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.GamingSetupId</td>
+            <td>@item.BookingDate</td>
+            <td>@item.StartTime</td>
+            <td>@item.EndTime</td>
+            <td>@item.TotalAmount</td>
+            <td>@item.BookingStatus</td>
+        </tr>
+    }
+</table>

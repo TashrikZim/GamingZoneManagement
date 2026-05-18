@@ -1,0 +1,31 @@
+﻿@model BLL.DTOs.BookingDTO
+
+<h1>Create Booking</h1>
+
+<form method="post" action="/Booking/Create">
+    <input type="hidden" name="GamingSetupId" value="@Model.GamingSetupId" />
+    <input type="hidden" name="TotalAmount" value="@Model.TotalAmount" />
+    <input type="hidden" name="BookingStatus" value="@Model.BookingStatus" />
+
+    <label>Booking Date</label>
+    <input type="date" name="BookingDate" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("BookingDate")</span>
+
+    <br />
+
+    <label>Start Time</label>
+    <input type="time" name="StartTime" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("StartTime")</span>
+
+    <br />
+
+    <label>End Time</label>
+    <input type="time" name="EndTime" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("EndTime")</span>
+
+    <br />
+
+    <p>Total Amount: @Model.TotalAmount</p>
+
+    <input type="submit" value="Confirm Booking" class="btn btn-primary" />
+</form>

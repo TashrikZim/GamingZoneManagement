@@ -50,6 +50,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xBdmFpbGFibGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/Git Control/GamingZoneManagement/GamingZone/App/Views/Booking/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Git Control/GamingZoneManagement/GamingZone/App/Views/Booking/MyBookings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xNeUJvb2tpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Git Control/GamingZoneManagement/GamingZone/App/Views/GamingSetup/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtaW5nU2V0dXBcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

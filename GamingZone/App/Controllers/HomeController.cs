@@ -1,11 +1,19 @@
-using System.Diagnostics;
 using App.Models;
+using BLL.Services;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
 
 namespace App.Controllers
 {
     public class HomeController : Controller
     {
+
+        BookingService bookingService;
+
+        public HomeController(BookingService bookingService)
+        {
+            this.bookingService = bookingService;
+        }
         public IActionResult Index()
         {
             return View();
@@ -27,12 +35,14 @@ namespace App.Controllers
         {
             if (HttpContext.Session.GetString("Uname") != null)
             {
-
                 ViewBag.Uname = HttpContext.Session.GetString("Uname");
                 ViewBag.Role = HttpContext.Session.GetString("Role");
 
+                ViewBag.TotalBookingAmount = bookingService.TotalBookingAmount();
+
                 return View();
             }
+
             return Unauthorized();
         }
 

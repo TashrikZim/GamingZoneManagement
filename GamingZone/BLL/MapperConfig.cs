@@ -11,6 +11,8 @@ namespace BLL
             cfg.CreateMap<User, RegisterDTO>().ReverseMap();
             cfg.CreateMap<User,EditProfileDTO>().ReverseMap();
             cfg.CreateMap<GamingSetup,GamingSetupDTO>().ReverseMap();
+
+            cfg.CreateMap<Booking, BookingDTO>().ReverseMap();
         });
 
         public static Mapper GetMapper()

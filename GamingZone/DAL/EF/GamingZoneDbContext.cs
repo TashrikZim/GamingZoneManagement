@@ -31,6 +31,7 @@ public partial class GamingZoneDbContext : DbContext
     {
         modelBuilder.Entity<Booking>(entity =>
         {
+            entity.Property(e => e.Id).ValueGeneratedOnAdd();  //fixed
             entity.Property(e => e.BookingStatus)
                 .HasMaxLength(50)
                 .IsUnicode(false);

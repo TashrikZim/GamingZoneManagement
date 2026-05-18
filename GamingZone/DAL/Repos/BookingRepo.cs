@@ -24,5 +24,26 @@ namespace DAL.Repos
 
             return data;
         }
+
+        public bool Create(Booking b) {
+            db_data.Bookings.Add(b);
+            return db_data.SaveChanges() > 0;
+        }
+
+        public List<Booking> GetByUser(int userId)
+        {
+            var data = (from b in db_data.Bookings
+                        where b.UserId == userId
+                        select b).ToList();
+
+            return data;
+        }
+
+        public decimal TotalBookingAmount()
+        {
+            var total = db_data.Bookings.Sum(b => b.TotalAmount);
+
+            return total;
+        }
     }
 }

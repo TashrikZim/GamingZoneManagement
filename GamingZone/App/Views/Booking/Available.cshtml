@@ -7,23 +7,6 @@
     <input type="text" name="SetupType" value="@Model.SetupType" placeholder="Setup Type" class="form-control" />
     <span class="text-danger">@Html.ValidationMessage("SetupType")</span>
 
-    <br />
-
-    <input type="date" name="BookingDate" class="form-control" />
-    <span class="text-danger">@Html.ValidationMessage("BookingDate")</span>
-
-    <br />
-
-    <input type="time" name="StartTime" class="form-control" />
-    <span class="text-danger">@Html.ValidationMessage("StartTime")</span>
-
-    <br />
-
-    <input type="time" name="EndTime" class="form-control" />
-    <span class="text-danger">@Html.ValidationMessage("EndTime")</span>
-
-    <br />
-
     <input type="submit" value="Search" class="btn btn-primary" />
 </form>
 
@@ -48,6 +31,7 @@
                 <th>Setup Type</th>
                 <th>Hourly Rate</th>
                 <th>Status</th>
+                <th>Action</th>
             </tr>
 
             @foreach (var item in setups)
@@ -58,6 +42,9 @@
                     <td>@item.SetupType</td>
                     <td>@item.HourlyRate</td>
                     <td>@item.Status</td>
+                    <td>
+                        <a href="/Booking/Create/@item.Id" class="btn btn-success">Book</a>
+                    </td>
                 </tr>
             }
         </table>
