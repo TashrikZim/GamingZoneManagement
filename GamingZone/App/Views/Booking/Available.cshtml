@@ -1,0 +1,65 @@
+﻿@model BLL.DTOs.AvailableSetupDTO
+@using BLL.DTOs
+
+<h1>Find Available Setup</h1>
+
+<form method="post">
+    <input type="text" name="SetupType" value="@Model.SetupType" placeholder="Setup Type" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("SetupType")</span>
+
+    <br />
+
+    <input type="date" name="BookingDate" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("BookingDate")</span>
+
+    <br />
+
+    <input type="time" name="StartTime" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("StartTime")</span>
+
+    <br />
+
+    <input type="time" name="EndTime" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("EndTime")</span>
+
+    <br />
+
+    <input type="submit" value="Search" class="btn btn-primary" />
+</form>
+
+<br />
+
+@if (ViewBag.AvailableSetups != null)
+{
+    var setups = ViewBag.AvailableSetups as List<GamingSetupDTO>;
+
+    <h2>Available Setups</h2>
+
+    if (setups.Count == 0)
+    {
+        <p>No setup available</p>
+    }
+    else
+    {
+        <table class="table">
+            <tr>
+                <th>Id</th>
+                <th>Setup Name</th>
+                <th>Setup Type</th>
+                <th>Hourly Rate</th>
+                <th>Status</th>
+            </tr>
+
+            @foreach (var item in setups)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.SetupName</td>
+                    <td>@item.SetupType</td>
+                    <td>@item.HourlyRate</td>
+                    <td>@item.Status</td>
+                </tr>
+            }
+        </table>
+    }
+}

@@ -27,6 +27,10 @@ builder.Services.AddScoped<AuthService>();
 builder.Services.AddScoped<GamingSetupRepo>();
 builder.Services.AddScoped<GamingSetupService>();
 
+builder.Services.AddScoped<BookingRepo>();
+builder.Services.AddScoped<BookingService>();
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

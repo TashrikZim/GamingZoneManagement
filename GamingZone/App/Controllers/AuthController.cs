@@ -28,7 +28,7 @@ namespace App.Controllers
 
                 if (res == true)
                 {
-                    return RedirectToAction("Index");
+                    return RedirectToAction("Login");
                 }
             }
 

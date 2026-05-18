@@ -53,7 +53,7 @@
 
 
 
-
+@* 
  @model BLL.DTOs.GamingSetupDTO
 
 <h1>Delete Gaming Setup</h1>
@@ -70,4 +70,19 @@
 
     <input type="submit" name="Decision" value="Yes" class="btn btn-danger" />
     <input type="submit" name="Decision" value="No" class="btn btn-secondary" />
+</form> *@
+
+
+
+@model BLL.DTOs.GamingSetupDTO
+
+<h1>Are you sure to Delete?</h1>
+<h3>@Model.SetupName</h3>
+<h3>@Model.SetupType</h3>
+<h3>@Model.HourlyRate</h3>
+
+<form method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <input type="submit" name="Decision" value="Yes" class="btn btn-danger" />
+    <input type="submit" name="Decision" value="No" class="btn btn-primary" />
 </form>

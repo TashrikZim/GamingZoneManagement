@@ -22,7 +22,7 @@ namespace BLL.Services
 
             data.Role = "User";
 
-            var res= repo.Create(data); ;
+            var res = repo.Create(data); ;
             return res;
         }
 

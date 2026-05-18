@@ -3,64 +3,64 @@
   "WorkspaceRootPath": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\gamingsetup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\gamingsetup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\gamingsetup\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\gamingsetup\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\controllers\\gamingsetupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\controllers\\gamingsetupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\gamingsetup\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\gamingsetup\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\dal\\repos\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\gamingsetup\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\gamingsetup\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\dtos\\availablesetupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\availablesetupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\services\\gamingsetupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\gamingsetupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\dal\\repos\\gamingsetuprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\gamingsetuprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\booking\\available.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\booking\\available.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\dtos\\gamingsetupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\gamingsetupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\home\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\home\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\validations\\uniqueusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\validations\\uniqueusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\validations\\uniqueemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\validations\\uniqueemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\dtos\\editprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\editprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\gamingsetup\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\gamingsetup\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\validations\\passwordmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,32 +71,56 @@
       "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\auth\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\auth\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\auth\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\validations\\uniqueusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\validations\\uniqueusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\home\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\home\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\validations\\uniqueemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\validations\\uniqueemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\gamingsetup\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\gamingsetup\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\controllers\\gamingsetupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\controllers\\gamingsetupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\gamingsetup\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\gamingsetup\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\gamingsetup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\gamingsetup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\dal\\repos\\gamingsetuprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\gamingsetuprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\dtos\\gamingsetupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\gamingsetupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\auth\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\auth\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\dtos\\editprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\editprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -109,10 +133,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\app\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|e:\\git control\\gamingzonemanagement\\gamingzone\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -142,57 +162,116 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 28,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\GamingSetup\\Index.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\GamingSetup\\Index.cshtml",
-              "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\GamingSetup\\Index.cshtml*",
-              "RelativeToolTip": "App\\Views\\GamingSetup\\Index.cshtml*",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Available.cshtml",
+              "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\Booking\\Available.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Booking\\Available.cshtml",
+              "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\Booking\\Available.cshtml",
+              "RelativeToolTip": "App\\Views\\Booking\\Available.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-16T18:11:45.372Z",
+              "WhenOpened": "2026-05-17T17:58:35.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\BookingController.cs",
+              "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "App\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:55:46.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\BookingService.cs",
+              "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\Services\\BookingService.cs",
+              "RelativeToolTip": "BLL\\Services\\BookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:55:01.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingRepo.cs",
+              "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\DAL\\Repos\\BookingRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\BookingRepo.cs",
+              "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\DAL\\Repos\\BookingRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\BookingRepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:53:53.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AvailableSetupDTO.cs",
+              "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\DTOs\\AvailableSetupDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\AvailableSetupDTO.cs",
+              "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\DTOs\\AvailableSetupDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\AvailableSetupDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:51:14.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\GamingSetup\\Index.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\GamingSetup\\Index.cshtml",
+              "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\GamingSetup\\Index.cshtml",
+              "RelativeToolTip": "App\\Views\\GamingSetup\\Index.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T18:11:45.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\GamingSetup\\Delete.cshtml",
               "RelativeDocumentMoniker": "App\\Views\\GamingSetup\\Delete.cshtml",
               "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\GamingSetup\\Delete.cshtml",
               "RelativeToolTip": "App\\Views\\GamingSetup\\Delete.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEgAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwFcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-16T18:05:11.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T18:05:11.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 22,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\GamingSetup\\Edit.cshtml",
               "RelativeDocumentMoniker": "App\\Views\\GamingSetup\\Edit.cshtml",
               "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\GamingSetup\\Edit.cshtml",
               "RelativeToolTip": "App\\Views\\GamingSetup\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwEgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-16T18:01:09.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\GamingSetup\\Create.cshtml",
               "RelativeDocumentMoniker": "App\\Views\\GamingSetup\\Create.cshtml",
@@ -200,37 +279,36 @@
               "RelativeToolTip": "App\\Views\\GamingSetup\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-16T18:00:20.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T18:00:20.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 20,
               "Title": "GamingSetupController.cs",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Controllers\\GamingSetupController.cs",
               "RelativeDocumentMoniker": "App\\Controllers\\GamingSetupController.cs",
               "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Controllers\\GamingSetupController.cs",
               "RelativeToolTip": "App\\Controllers\\GamingSetupController.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAmwGQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowGQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T17:40:24.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T17:40:24.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "GamingSetupService.cs",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\Services\\GamingSetupService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\GamingSetupService.cs",
               "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\Services\\GamingSetupService.cs",
               "RelativeToolTip": "BLL\\Services\\GamingSetupService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAuwDMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T17:25:37.847Z"
+              "WhenOpened": "2026-05-16T17:25:37.847Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
               "Title": "GamingSetupRepo.cs",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\DAL\\Repos\\GamingSetupRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\GamingSetupRepo.cs",
@@ -242,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 27,
               "Title": "GamingSetupDTO.cs",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\DTOs\\GamingSetupDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\GamingSetupDTO.cs",
@@ -254,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 11,
               "Title": "EditProfileDTO.cs",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\DTOs\\EditProfileDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\EditProfileDTO.cs",
@@ -272,13 +350,13 @@
               "RelativeDocumentMoniker": "App\\Views\\Auth\\EditProfile.cshtml",
               "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\Auth\\EditProfile.cshtml",
               "RelativeToolTip": "App\\Views\\Auth\\EditProfile.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAiwB0AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-13T07:13:32.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "App\\Views\\Home\\Index.cshtml",
@@ -290,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 25,
               "Title": "AdminDashboard.cshtml",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\Home\\AdminDashboard.cshtml",
               "RelativeDocumentMoniker": "App\\Views\\Home\\AdminDashboard.cshtml",
@@ -302,19 +380,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 8,
               "Title": "UserDashboard.cshtml",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\Home\\UserDashboard.cshtml",
               "RelativeDocumentMoniker": "App\\Views\\Home\\UserDashboard.cshtml",
               "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\Home\\UserDashboard.cshtml",
               "RelativeToolTip": "App\\Views\\Home\\UserDashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-12T18:22:49.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "Login.cshtml",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "App\\Views\\Auth\\Login.cshtml",
@@ -326,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\DTOs\\LoginDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\LoginDTO.cs",
@@ -338,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\Auth\\Index.cshtml",
               "RelativeDocumentMoniker": "App\\Views\\Auth\\Index.cshtml",
@@ -350,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "Registration.cshtml",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Views\\Auth\\Registration.cshtml",
               "RelativeDocumentMoniker": "App\\Views\\Auth\\Registration.cshtml",
@@ -362,19 +440,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Program.cs",
               "RelativeDocumentMoniker": "App\\Program.cs",
               "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Program.cs",
               "RelativeToolTip": "App\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T15:36:10.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 24,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "App\\Controllers\\HomeController.cs",
@@ -386,19 +464,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 14,
               "Title": "AuthService.cs",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\AuthService.cs",
               "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\Services\\AuthService.cs",
               "RelativeToolTip": "BLL\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T15:30:11.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "MapperConfig.cs",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\MapperConfig.cs",
               "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
@@ -406,11 +484,12 @@
               "RelativeToolTip": "BLL\\MapperConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T15:29:10.016Z"
+              "WhenOpened": "2026-05-12T15:29:10.016Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "UserRepo.cs",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\DAL\\Repos\\UserRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
@@ -422,38 +501,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "App\\Controllers\\AuthController.cs",
               "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\Controllers\\AuthController.cs",
               "RelativeToolTip": "App\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAmwHAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wB4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T15:01:17.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "UniqueUsername.cs",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\Validations\\UniqueUsername.cs",
               "RelativeDocumentMoniker": "BLL\\Validations\\UniqueUsername.cs",
               "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\Validations\\UniqueUsername.cs",
               "RelativeToolTip": "BLL\\Validations\\UniqueUsername.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T14:44:44.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "UniqueEmail.cs",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\Validations\\UniqueEmail.cs",
               "RelativeDocumentMoniker": "BLL\\Validations\\UniqueEmail.cs",
               "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\Validations\\UniqueEmail.cs",
               "RelativeToolTip": "BLL\\Validations\\UniqueEmail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T14:39:06.795Z"
             },
@@ -471,19 +550,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 12,
               "Title": "RegisterDTO.cs",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\DTOs\\RegisterDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\RegisterDTO.cs",
               "ToolTip": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\DTOs\\RegisterDTO.cs",
               "RelativeToolTip": "BLL\\DTOs\\RegisterDTO.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAcAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T14:32:53.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "DAL.csproj",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "DAL\\DAL.csproj",
@@ -495,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\appsettings.json",
               "RelativeDocumentMoniker": "App\\appsettings.json",
@@ -507,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "BLL.csproj",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\BLL.csproj",
               "RelativeDocumentMoniker": "BLL\\BLL.csproj",
@@ -519,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "App.csproj",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\App\\App.csproj",
               "RelativeDocumentMoniker": "App\\App.csproj",
@@ -531,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\DAL\\Class1.cs",
               "RelativeDocumentMoniker": "DAL\\Class1.cs",
@@ -543,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\Git Control\\GamingZoneManagement\\GamingZone\\BLL\\Class1.cs",
               "RelativeDocumentMoniker": "BLL\\Class1.cs",
