@@ -109,5 +109,12 @@ namespace App.Controllers
 
             return View(p);
         }
+
+        public IActionResult Test()
+        {
+            {
+                return View();
+            }
+        }
     }
 }
