@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\.NET Core\\GamingZoneManagement\\GamingZone\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\tanjil tashrik zim\\desktop\\.net core\\gamingzonemanagement\\gamingzone\\app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\tanjil tashrik zim\\desktop\\.net core\\gamingzonemanagement\\gamingzone\\dal\\ef\\gamingzonedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\gamingzonedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\tanjil tashrik zim\\desktop\\.net core\\gamingzonemanagement\\gamingzone\\app\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|c:\\users\\tanjil tashrik zim\\desktop\\.net core\\gamingzonemanagement\\gamingzone\\app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C0F928A-B28D-D207-D239-598F22CCD0B7}|App\\App.csproj|solutionrelative:app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\tanjil tashrik zim\\desktop\\.net core\\gamingzonemanagement\\gamingzone\\dal\\repos\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -194,7 +194,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -207,18 +207,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BookingService.cs",
-              "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\.NET Core\\GamingZoneManagement\\GamingZone\\BLL\\Services\\BookingService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\BookingService.cs",
-              "ToolTip": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\.NET Core\\GamingZoneManagement\\GamingZone\\BLL\\Services\\BookingService.cs",
-              "RelativeToolTip": "BLL\\Services\\BookingService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwC8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T17:55:01.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "GamingSetupRepo.cs",
               "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\.NET Core\\GamingZoneManagement\\GamingZone\\DAL\\Repos\\GamingSetupRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\GamingSetupRepo.cs",
@@ -230,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GamingSetupController.cs",
               "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\.NET Core\\GamingZoneManagement\\GamingZone\\App\\Controllers\\GamingSetupController.cs",
               "RelativeDocumentMoniker": "App\\Controllers\\GamingSetupController.cs",
@@ -242,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GamingSetupService.cs",
               "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\.NET Core\\GamingZoneManagement\\GamingZone\\BLL\\Services\\GamingSetupService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\GamingSetupService.cs",
@@ -254,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GamingZoneDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\.NET Core\\GamingZoneManagement\\GamingZone\\DAL\\EF\\GamingZoneDbContext.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\GamingZoneDbContext.cs",
@@ -267,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BookingController.cs",
               "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\.NET Core\\GamingZoneManagement\\GamingZone\\App\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "App\\Controllers\\BookingController.cs",
@@ -279,15 +267,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\.NET Core\\GamingZoneManagement\\GamingZone\\App\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "App\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\.NET Core\\GamingZoneManagement\\GamingZone\\App\\Controllers\\AuthController.cs",
               "RelativeToolTip": "App\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAhwHMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T15:01:17.031Z"
+              "WhenOpened": "2026-05-12T15:01:17.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\.NET Core\\GamingZoneManagement\\GamingZone\\BLL\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\Tanjil Tashrik Zim\\Desktop\\.NET Core\\GamingZoneManagement\\GamingZone\\BLL\\Services\\BookingService.cs",
+              "RelativeToolTip": "BLL\\Services\\BookingService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:55:01.385Z"
             },
             {
               "$type": "Document",
